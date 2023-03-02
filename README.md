@@ -1,2 +1,2 @@
-# Malicious or Benign Prediction using Machine Learning
+# Malicious or Benign Website Prediction using Machine Learning
 Machine Learning project for the course DVA439 Intelligent systems at Mälardalen University. The project aims to predict whether a Website is malicious or benign based on different features which can be extracted from the URL. To determine which features have high variance a genetic algorithm for feature selection is implemented. Based on the features selected six different ML models will be created and their respective prediction scores are later compared.  
